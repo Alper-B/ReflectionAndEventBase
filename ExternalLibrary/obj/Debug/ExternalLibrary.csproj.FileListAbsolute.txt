@@ -1,0 +1,5 @@
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ExternalLibrary\bin\Debug\ExternalLibrary.dll
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ExternalLibrary\bin\Debug\ExternalLibrary.pdb
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ExternalLibrary\obj\Debug\ExternalLibrary.csprojResolveAssemblyReference.cache
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ExternalLibrary\obj\Debug\ExternalLibrary.dll
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ExternalLibrary\obj\Debug\ExternalLibrary.pdb

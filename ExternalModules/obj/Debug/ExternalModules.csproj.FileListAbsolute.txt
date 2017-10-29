@@ -1,0 +1,5 @@
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ExternalModules\bin\Debug\ExternalModules.dll
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ExternalModules\bin\Debug\ExternalModules.pdb
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ExternalModules\obj\Debug\ExternalModules.dll
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ExternalModules\obj\Debug\ExternalModules.pdb
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ExternalModules\obj\Debug\ExternalModules.csprojResolveAssemblyReference.cache

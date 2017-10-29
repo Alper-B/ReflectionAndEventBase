@@ -1,0 +1,10 @@
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ReflectionAndEventsBase\bin\Debug\ReflectionAndEventsBase.exe.config
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ReflectionAndEventsBase\bin\Debug\ReflectionAndEventsBase.exe
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ReflectionAndEventsBase\bin\Debug\ReflectionAndEventsBase.pdb
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ReflectionAndEventsBase\bin\Debug\ExternalLibrary.dll
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ReflectionAndEventsBase\bin\Debug\ExternalLibrary.pdb
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ReflectionAndEventsBase\obj\Debug\ReflectionAndEventsBase.csprojResolveAssemblyReference.cache
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ReflectionAndEventsBase\obj\Debug\ReflectionAndEventsBase.exe
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ReflectionAndEventsBase\obj\Debug\ReflectionAndEventsBase.pdb
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ReflectionAndEventsBase\bin\Debug\ExternalModules.dll
+C:\Users\SBL\Desktop\AB\ReflectionAndEventsBase\ReflectionAndEventsBase\bin\Debug\ExternalModules.pdb
